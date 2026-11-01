@@ -1,0 +1,81 @@
+{
+  "r2_score": 0.2522,
+  "rmse": 5.1569,
+  "mae": 4.3457,
+  "tier_classification_accuracy": 0.5238,
+  "feature_importances": [
+    {
+      "feature_name": "distance_to_grid_km",
+      "display_name": "Grid Distance",
+      "importance": 0.3188
+    },
+    {
+      "feature_name": "land_suitability_score",
+      "display_name": "Land Suitability",
+      "importance": 0.1861
+    },
+    {
+      "feature_name": "distance_to_road_km",
+      "display_name": "Road Distance",
+      "importance": 0.1009
+    },
+    {
+      "feature_name": "elevation_m",
+      "display_name": "Elevation",
+      "importance": 0.0733
+    },
+    {
+      "feature_name": "slope_deg",
+      "display_name": "Terrain Slope",
+      "importance": 0.0699
+    },
+    {
+      "feature_name": "wind_power_density",
+      "display_name": "Wind Power Density",
+      "importance": 0.0605
+    },
+    {
+      "feature_name": "temperature_avg",
+      "display_name": "Average Temperature",
+      "importance": 0.0581
+    },
+    {
+      "feature_name": "wind_speed_50m",
+      "display_name": "Wind Speed at 50m",
+      "importance": 0.0532
+    },
+    {
+      "feature_name": "solar_dni",
+      "display_name": "Direct Normal Irradiance (DNI)",
+      "importance": 0.0449
+    },
+    {
+      "feature_name": "solar_ghi",
+      "display_name": "Global Horizontal Irradiance (GHI)",
+      "importance": 0.0344
+    },
+    {
+      "feature_name": "environmental_penalty",
+      "display_name": "Environmental Risk",
+      "importance": 0.0
+    }
+  ],
+  "sample_test_size": 42,
+  "model_name": "Random Forest Regressor",
+  "cross_val_r2": 0.4293,
+  "training_date": "2026-10-31T03:41:43.135219",
+  "features": [
+    "solar_ghi",
+    "solar_dni",
+    "wind_speed_50m",
+    "wind_power_density",
+    "elevation_m",
+    "slope_deg",
+    "distance_to_grid_km",
+    "distance_to_road_km",
+    "land_suitability_score",
+    "environmental_penalty",
+    "temperature_avg"
+  ],
+  "total_samples": 208
+}

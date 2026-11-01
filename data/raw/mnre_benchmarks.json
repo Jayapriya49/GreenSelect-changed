@@ -1,0 +1,39 @@
+{
+  "source": "Ministry of New and Renewable Energy (MNRE), Central Electricity Authority (CEA)",
+  "guidelines_title": "MNRE Standard Guidelines & Techno-Economic Siting Benchmarks",
+  "land_norms": {
+    "solar_pv_acres_per_mw": {
+      "crystalline_silicon": 4.0,
+      "thin_film": 4.8,
+      "bifacial_with_tracker": 3.8,
+      "recommended_range": "3.5 - 4.5 acres / MW"
+    },
+    "onshore_wind_hectares_per_mw": {
+      "direct_footprint_ha_per_mw": 0.25,
+      "spatial_inter_turbine_spacing_ha_per_mw": 5.0,
+      "recommended_spacing": "5 to 7 rotor diameters downwind, 3 to 5 crosswind"
+    },
+    "hybrid_solar_wind": {
+      "land_footprint_savings_pct": 25.0,
+      "substation_sharing_efficiency_pct": 35.0,
+      "recommended_range": "4.2 - 5.5 acres / MW (Combined DC/AC)"
+    }
+  },
+  "cuf_benchmarks_pct": {
+    "solar_pv_fixed": { "min": 19.0, "typical": 21.5, "high_resource": 25.0 },
+    "solar_pv_tracker": { "min": 22.0, "typical": 24.5, "high_resource": 28.0 },
+    "onshore_wind": { "min": 28.0, "typical": 35.0, "high_resource": 44.0 },
+    "solar_wind_hybrid": { "min": 35.0, "typical": 42.0, "high_resource": 52.0 }
+  },
+  "green_energy_corridor": {
+    "phases": ["GEC Phase I (8 states)", "GEC Phase II (InSTS for 20 GW)"],
+    "priority_states": ["Rajasthan", "Gujarat", "Tamil Nadu", "Karnataka", "Andhra Pradesh", "Madhya Pradesh", "Maharashtra", "Himachal Pradesh"],
+    "ists_waiver": "Inter-State Transmission System (ISTS) charges waived for solar and wind projects commissioned prior to June 2025 (gradual tapering)."
+  },
+  "environmental_clearance_regime": {
+    "solar_wind_eia_status": "Solar PV and Wind projects are exempt from MoEFCC Environmental Impact Assessment (EIA) clearance, subject to Forest Clearance if applicable.",
+    "ecologically_sensitive_zone_buffer_km": 1.0,
+    "wildlife_sanctuary_buffer_km": 10.0,
+    "great_indian_bustard_priority_zone": "Mandatory undergrounding of 33kV lines and installation of bird diverters in Thar / Kutch priority habitats per Supreme Court / MNRE orders."
+  }
+}

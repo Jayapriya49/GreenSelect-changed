@@ -1,0 +1,427 @@
+{
+  "27.5381_71.9167": {
+    "name": "Bhadla_Solar_Park",
+    "state": "Rajasthan",
+    "district": "Phalodi",
+    "region": "North",
+    "lat": 27.5381,
+    "lon": 71.9167,
+    "climatology": {
+      "source": "NASA POWER Climatology API",
+      "status": "success",
+      "solar_ghi_kwh_m2_day": 5.67,
+      "solar_dni_kwh_m2_day": 5.03,
+      "wind_speed_50m_ms": 4.79,
+      "wind_speed_10m_ms": 3.51,
+      "temperature_avg_c": 27.66
+    }
+  },
+  "26.9157_70.9083": {
+    "name": "Jaisalmer_Thar_Basin",
+    "state": "Rajasthan",
+    "district": "Jaisalmer",
+    "region": "North",
+    "lat": 26.9157,
+    "lon": 70.9083,
+    "climatology": {
+      "source": "NASA POWER Climatology API",
+      "status": "success",
+      "solar_ghi_kwh_m2_day": 5.77,
+      "solar_dni_kwh_m2_day": 5.25,
+      "wind_speed_50m_ms": 5.11,
+      "wind_speed_10m_ms": 3.79,
+      "temperature_avg_c": 27.6
+    }
+  },
+  "28.0229_73.3119": {
+    "name": "Bikaner_Solar_Belt",
+    "state": "Rajasthan",
+    "district": "Bikaner",
+    "region": "North",
+    "lat": 28.0229,
+    "lon": 73.3119,
+    "climatology": {
+      "source": "NASA POWER Climatology API",
+      "status": "success",
+      "solar_ghi_kwh_m2_day": 5.57,
+      "solar_dni_kwh_m2_day": 5.1,
+      "wind_speed_50m_ms": 4.63,
+      "wind_speed_10m_ms": 3.34,
+      "temperature_avg_c": 27.16
+    }
+  },
+  "23.85_69.75": {
+    "name": "Khavda_Hybrid_Park",
+    "state": "Gujarat",
+    "district": "Kutch",
+    "region": "West",
+    "lat": 23.85,
+    "lon": 69.75,
+    "climatology": {
+      "source": "NASA POWER Climatology API",
+      "status": "success",
+      "solar_ghi_kwh_m2_day": 5.45,
+      "solar_dni_kwh_m2_day": 4.5,
+      "wind_speed_50m_ms": 5.9,
+      "wind_speed_10m_ms": 4.43,
+      "temperature_avg_c": 27.67
+    }
+  },
+  "23.9056_71.2": {
+    "name": "Charanka_Solar_Park",
+    "state": "Gujarat",
+    "district": "Patan",
+    "region": "West",
+    "lat": 23.9056,
+    "lon": 71.2,
+    "climatology": {
+      "source": "NASA POWER Climatology API",
+      "status": "success",
+      "solar_ghi_kwh_m2_day": 5.58,
+      "solar_dni_kwh_m2_day": 4.98,
+      "wind_speed_50m_ms": 5.51,
+      "wind_speed_10m_ms": 3.95,
+      "temperature_avg_c": 27.59
+    }
+  },
+  "22.84_69.72": {
+    "name": "Mundra_Coastal_Wind",
+    "state": "Gujarat",
+    "district": "Kutch",
+    "region": "West",
+    "lat": 22.84,
+    "lon": 69.72,
+    "climatology": {
+      "source": "NASA POWER Climatology API",
+      "status": "success",
+      "solar_ghi_kwh_m2_day": 5.51,
+      "solar_dni_kwh_m2_day": 4.72,
+      "wind_speed_50m_ms": 6.21,
+      "wind_speed_10m_ms": 4.68,
+      "temperature_avg_c": 26.78
+    }
+  },
+  "22.3039_70.8022": {
+    "name": "Saurashtra_Wind_Zone",
+    "state": "Gujarat",
+    "district": "Rajkot",
+    "region": "West",
+    "lat": 22.3039,
+    "lon": 70.8022,
+    "climatology": {
+      "source": "NASA POWER Climatology API",
+      "status": "success",
+      "solar_ghi_kwh_m2_day": 5.45,
+      "solar_dni_kwh_m2_day": 4.81,
+      "wind_speed_50m_ms": 5.99,
+      "wind_speed_10m_ms": 4.35,
+      "temperature_avg_c": 26.76
+    }
+  },
+  "14.1_77.28": {
+    "name": "Pavagada_Solar_Park",
+    "state": "Karnataka",
+    "district": "Tumkur",
+    "region": "South",
+    "lat": 14.1,
+    "lon": 77.28,
+    "climatology": {
+      "source": "NASA POWER Climatology API",
+      "status": "success",
+      "solar_ghi_kwh_m2_day": 5.66,
+      "solar_dni_kwh_m2_day": 4.21,
+      "wind_speed_50m_ms": 6.24,
+      "wind_speed_10m_ms": 4.46,
+      "temperature_avg_c": 25.39
+    }
+  },
+  "15.3467_76.1558": {
+    "name": "Koppal_Wind_Hub",
+    "state": "Karnataka",
+    "district": "Koppal",
+    "region": "South",
+    "lat": 15.3467,
+    "lon": 76.1558,
+    "climatology": {
+      "source": "NASA POWER Climatology API",
+      "status": "success",
+      "solar_ghi_kwh_m2_day": 5.54,
+      "solar_dni_kwh_m2_day": 4.07,
+      "wind_speed_50m_ms": 6.13,
+      "wind_speed_10m_ms": 4.41,
+      "temperature_avg_c": 26.15
+    }
+  },
+  "8.2575_77.5458": {
+    "name": "Muppandal_Wind_Farm",
+    "state": "Tamil Nadu",
+    "district": "Kanyakumari",
+    "region": "South",
+    "lat": 8.2575,
+    "lon": 77.5458,
+    "climatology": {
+      "source": "NASA POWER Climatology API",
+      "status": "success",
+      "solar_ghi_kwh_m2_day": 5.26,
+      "solar_dni_kwh_m2_day": 3.17,
+      "wind_speed_50m_ms": 5.63,
+      "wind_speed_10m_ms": 4.11,
+      "temperature_avg_c": 25.82
+    }
+  },
+  "8.95_77.78": {
+    "name": "Kayathar_Wind_Belt",
+    "state": "Tamil Nadu",
+    "district": "Thoothukudi",
+    "region": "South",
+    "lat": 8.95,
+    "lon": 77.78,
+    "climatology": {
+      "source": "NASA POWER Climatology API",
+      "status": "success",
+      "solar_ghi_kwh_m2_day": 5.26,
+      "solar_dni_kwh_m2_day": 3.17,
+      "wind_speed_50m_ms": 5.14,
+      "wind_speed_10m_ms": 3.59,
+      "temperature_avg_c": 25.85
+    }
+  },
+  "9.35_78.38": {
+    "name": "Kamuthi_Solar_Basin",
+    "state": "Tamil Nadu",
+    "district": "Ramanathapuram",
+    "region": "South",
+    "lat": 9.35,
+    "lon": 78.38,
+    "climatology": {
+      "source": "NASA POWER Climatology API",
+      "status": "success",
+      "solar_ghi_kwh_m2_day": 5.56,
+      "solar_dni_kwh_m2_day": 3.71,
+      "wind_speed_50m_ms": 5.22,
+      "wind_speed_10m_ms": 3.65,
+      "temperature_avg_c": 27.83
+    }
+  },
+  "15.68_78.28": {
+    "name": "Kurnool_Ultra_Solar",
+    "state": "Andhra Pradesh",
+    "district": "Kurnool",
+    "region": "South",
+    "lat": 15.68,
+    "lon": 78.28,
+    "climatology": {
+      "source": "NASA POWER Climatology API",
+      "status": "success",
+      "solar_ghi_kwh_m2_day": 5.33,
+      "solar_dni_kwh_m2_day": 3.69,
+      "wind_speed_50m_ms": 5.7,
+      "wind_speed_10m_ms": 4.02,
+      "temperature_avg_c": 27.24
+    }
+  },
+  "14.6819_77.6006": {
+    "name": "Anantapur_Wind_Solar",
+    "state": "Andhra Pradesh",
+    "district": "Anantapur",
+    "region": "South",
+    "lat": 14.6819,
+    "lon": 77.6006,
+    "climatology": {
+      "source": "NASA POWER Climatology API",
+      "status": "success",
+      "solar_ghi_kwh_m2_day": 5.66,
+      "solar_dni_kwh_m2_day": 4.21,
+      "wind_speed_50m_ms": 6.25,
+      "wind_speed_10m_ms": 4.51,
+      "temperature_avg_c": 26.67
+    }
+  },
+  "16.7488_78.0035": {
+    "name": "Telangana_Central_Solar",
+    "state": "Telangana",
+    "district": "Mahbubnagar",
+    "region": "South",
+    "lat": 16.7488,
+    "lon": 78.0035,
+    "climatology": {
+      "source": "NASA POWER Climatology API",
+      "status": "success",
+      "solar_ghi_kwh_m2_day": 5.4,
+      "solar_dni_kwh_m2_day": 3.79,
+      "wind_speed_50m_ms": 5.59,
+      "wind_speed_10m_ms": 3.88,
+      "temperature_avg_c": 26.65
+    }
+  },
+  "24.5362_81.2961": {
+    "name": "Rewa_Ultra_Mega_Solar",
+    "state": "Madhya Pradesh",
+    "district": "Rewa",
+    "region": "Central",
+    "lat": 24.5362,
+    "lon": 81.2961,
+    "climatology": {
+      "source": "NASA POWER Climatology API",
+      "status": "success",
+      "solar_ghi_kwh_m2_day": 5.17,
+      "solar_dni_kwh_m2_day": 4.43,
+      "wind_speed_50m_ms": 4.37,
+      "wind_speed_10m_ms": 2.98,
+      "temperature_avg_c": 25.67
+    }
+  },
+  "24.0722_75.0689": {
+    "name": "Neemuch_Mandsaur_Belt",
+    "state": "Madhya Pradesh",
+    "district": "Mandsaur",
+    "region": "Central",
+    "lat": 24.0722,
+    "lon": 75.0689,
+    "climatology": {
+      "source": "NASA POWER Climatology API",
+      "status": "success",
+      "solar_ghi_kwh_m2_day": 5.34,
+      "solar_dni_kwh_m2_day": 4.71,
+      "wind_speed_50m_ms": 5.34,
+      "wind_speed_10m_ms": 3.68,
+      "temperature_avg_c": 25.47
+    }
+  },
+  "20.998_74.316": {
+    "name": "Dhule_Sakri_Solar",
+    "state": "Maharashtra",
+    "district": "Dhule",
+    "region": "West",
+    "lat": 20.998,
+    "lon": 74.316,
+    "climatology": {
+      "source": "NASA POWER Climatology API",
+      "status": "success",
+      "solar_ghi_kwh_m2_day": 5.33,
+      "solar_dni_kwh_m2_day": 4.57,
+      "wind_speed_50m_ms": 5.62,
+      "wind_speed_10m_ms": 4.02,
+      "temperature_avg_c": 25.88
+    }
+  },
+  "17.6805_73.9803": {
+    "name": "Satara_Wind_Plateau",
+    "state": "Maharashtra",
+    "district": "Satara",
+    "region": "West",
+    "lat": 17.6805,
+    "lon": 73.9803,
+    "climatology": {
+      "source": "NASA POWER Climatology API",
+      "status": "success",
+      "solar_ghi_kwh_m2_day": 5.13,
+      "solar_dni_kwh_m2_day": 3.83,
+      "wind_speed_50m_ms": 5.32,
+      "wind_speed_10m_ms": 3.88,
+      "temperature_avg_c": 24.8
+    }
+  },
+  "34.1526_77.5771": {
+    "name": "Leh_Ladakh_Solar_Plateau",
+    "state": "Ladakh",
+    "district": "Leh",
+    "region": "North",
+    "lat": 34.1526,
+    "lon": 77.5771,
+    "climatology": {
+      "source": "NASA POWER Climatology API",
+      "status": "success",
+      "solar_ghi_kwh_m2_day": 5.08,
+      "solar_dni_kwh_m2_day": 4.71,
+      "wind_speed_50m_ms": 3.17,
+      "wind_speed_10m_ms": 2.77,
+      "temperature_avg_c": -2.75
+    }
+  },
+  "30.211_74.9455": {
+    "name": "Punjab_Bathinda_Solar",
+    "state": "Punjab",
+    "district": "Bathinda",
+    "region": "North",
+    "lat": 30.211,
+    "lon": 74.9455,
+    "climatology": {
+      "source": "NASA POWER Climatology API",
+      "status": "success",
+      "solar_ghi_kwh_m2_day": 5.11,
+      "solar_dni_kwh_m2_day": 4.35,
+      "wind_speed_50m_ms": 3.93,
+      "wind_speed_10m_ms": 2.65,
+      "temperature_avg_c": 26.17
+    }
+  },
+  "25.4484_78.5685": {
+    "name": "UP_Bundelkhand_Solar",
+    "state": "Uttar Pradesh",
+    "district": "Jhansi",
+    "region": "North",
+    "lat": 25.4484,
+    "lon": 78.5685,
+    "climatology": {
+      "source": "NASA POWER Climatology API",
+      "status": "success",
+      "solar_ghi_kwh_m2_day": 5.08,
+      "solar_dni_kwh_m2_day": 3.98,
+      "wind_speed_50m_ms": 4.41,
+      "wind_speed_10m_ms": 2.98,
+      "temperature_avg_c": 26.5
+    }
+  },
+  "20.71_83.48": {
+    "name": "Odisha_Western_Solar",
+    "state": "Odisha",
+    "district": "Balangir",
+    "region": "East",
+    "lat": 20.71,
+    "lon": 83.48,
+    "climatology": {
+      "source": "NASA POWER Climatology API",
+      "status": "success",
+      "solar_ghi_kwh_m2_day": 4.97,
+      "solar_dni_kwh_m2_day": 3.8,
+      "wind_speed_50m_ms": 4.04,
+      "wind_speed_10m_ms": 2.79,
+      "temperature_avg_c": 25.85
+    }
+  },
+  "24.4826_86.7": {
+    "name": "Jharkhand_Deoghar_Belt",
+    "state": "Jharkhand",
+    "district": "Deoghar",
+    "region": "East",
+    "lat": 24.4826,
+    "lon": 86.7,
+    "climatology": {
+      "source": "NASA POWER Climatology API",
+      "status": "success",
+      "solar_ghi_kwh_m2_day": 4.77,
+      "solar_dni_kwh_m2_day": 3.41,
+      "wind_speed_50m_ms": 4.37,
+      "wind_speed_10m_ms": 2.93,
+      "temperature_avg_c": 25.13
+    }
+  },
+  "26.3465_92.684": {
+    "name": "Assam_Brahmaputra_Valley",
+    "state": "Assam",
+    "district": "Nagaon",
+    "region": "Northeast",
+    "lat": 26.3465,
+    "lon": 92.684,
+    "climatology": {
+      "source": "NASA POWER Climatology API",
+      "status": "success",
+      "solar_ghi_kwh_m2_day": 4.38,
+      "solar_dni_kwh_m2_day": 3.23,
+      "wind_speed_50m_ms": 3.05,
+      "wind_speed_10m_ms": 2.03,
+      "temperature_avg_c": 24.31
+    }
+  }
+}
